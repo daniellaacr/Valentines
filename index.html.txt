@@ -1,0 +1,25 @@
+index
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Valentine?</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="card">
+    <h1 class="title">would you be my valentine?</h1>
+
+    <div class="buttons" id="buttonsArea">
+      <button id="yesBtn" class="btn btn-yes" type="button">Yes</button>
+      <button id="noBtn" class="btn btn-no" type="button">No</button>
+    </div>
+
+    <p class="hint">Tip: try clicking “No” 👀</p>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
