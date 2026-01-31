@@ -1,6 +1,3 @@
-script
-
-
 const yesBtn = document.getElementById("yesBtn");
 const noBtn  = document.getElementById("noBtn");
 const area   = document.getElementById("buttonsArea");
