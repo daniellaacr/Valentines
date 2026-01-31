@@ -1,7 +1,3 @@
-read me
-
-
-
 # Valentine Page 💘
 
 Mini proyecto en HTML/CSS/JS con una pregunta:
